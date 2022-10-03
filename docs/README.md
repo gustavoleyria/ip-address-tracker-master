@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/gustavoleyria/ip-address-tracker-master.git
-- Live Site URL: https://gustavoleyria.github.io/calculator-app-main/
+- Live Site URL: https://gustavoleyria.github.io/ip-address-tracker-master/
 
 ## My process
 
